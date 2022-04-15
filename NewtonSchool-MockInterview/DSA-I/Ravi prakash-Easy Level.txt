@@ -1,0 +1,5 @@
+- Write a code for string palindrome 
+
+- Write a code to print sum each element of a array.
+
+- Write a code to sort an array using any sorting algorithm 
