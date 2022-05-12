@@ -1,0 +1,11 @@
+Print all unique words present in a string -  
+
+Input - The sun rises in the east. 
+
+Output - sun 
+
+Rises 
+
+In 
+
+East 

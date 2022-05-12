@@ -1,0 +1,1 @@
+Find pair of given number in an array

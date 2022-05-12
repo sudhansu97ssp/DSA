@@ -1,0 +1,3 @@
+merge sort [Ans]
+quicksort [Ans]
+anagram string [Ans]

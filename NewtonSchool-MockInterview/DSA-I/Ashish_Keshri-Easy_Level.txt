@@ -1,0 +1,3 @@
+Implement Bubble Sort - Implemented
+Find the non-repeating elements of an integer array - Was not able to implement
+Check whether a string is a palindrome or not - Implemented
